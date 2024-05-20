@@ -18,18 +18,22 @@ Make sure you have installed all the following prerequisites on your development
 2. Clone the repository.
 
 ```shell
-git clone git@github.com:burakkaygusuz/cypress-typescript-api-testing.git
+git clone https://github.com/FedanV/cypress-api-testing.git
 ```
 
 3. Change the directory.
-```
+```shell
 cd cypress-typescript-api-testing
+```
+
+4. Run install
+```shell
 npm install
 ```
 
-4. Setup up baseUrl in cypress.config.ts
+5. Setup up baseUrl in cypress.config.ts
 
-5. Run the test.
+6. Run the test.
 
 ```shell
 npm run cypress
