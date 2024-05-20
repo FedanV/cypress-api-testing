@@ -36,8 +36,8 @@ npm run cypress
 ```
 
 Run test in headless mode. 'path' should be filled in
-```
-npx cypress run --spec path --browser chrome --headless
+```shell
+npx cypress run --spec cypress/e2e/api.spec.cy.ts --browser chrome --headless
 ```
 
 
