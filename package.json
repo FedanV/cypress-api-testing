@@ -8,10 +8,6 @@
     "pretty": "prettier --write \"./**/*.{yml,ts,tsx,json}\"",
     "cypress": "npx cypress open"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/burakkaygusuz/cypress-typescript-api-testing.git"
-  },
   "keywords": [
     "cypress",
     "api-testing",
